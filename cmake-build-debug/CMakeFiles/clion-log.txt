@@ -1,4 +1,0 @@
-/home/will/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/will/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/ninja/linux/ninja -G Ninja /home/will/Documents/physics_ai/opengl_playground
--- Configuring done
--- Generating done
--- Build files have been written to: /home/will/Documents/physics_ai/opengl_playground/cmake-build-debug
